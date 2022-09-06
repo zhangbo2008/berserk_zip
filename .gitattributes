@@ -1,0 +1,2 @@
+*.cbr filter=lfs diff=lfs merge=lfs -text
+*.cbz filter=lfs diff=lfs merge=lfs -text
